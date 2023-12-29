@@ -1,0 +1,2 @@
+require("willfull")
+print("hello")
