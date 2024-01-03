@@ -1,2 +1,1 @@
 require("willfull")
-print("hello")
