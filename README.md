@@ -1,2 +1,4 @@
 # nvim_config
-Neovim configuration for my raspberry pi
+Newest version of Neovim Config file.
+
+Must have neovim and ripgrep installed.
